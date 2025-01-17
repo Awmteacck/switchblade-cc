@@ -220,7 +220,7 @@ $postcode = $matches1[1][0];
 
 // Proxy Configuration
 $rp1 = array(
-    1 => 'URPROXY',
+    1 => '198.23.239.134:6540:iwltkhwr:fd3ntofsipek',
     2 => 'URPROXY',
     3 => 'URPROXY',
     4 => 'URPROXY',
